@@ -1,8 +1,8 @@
-### Frontend Developer
+### 📌 Frontend Developer
 - TypeScript, JavaScript
 - Vue.JS (mainly), React.js
 
-#### Participated in
+### 💼 Participated in
 - [amoCRM](https://www.amocrm.ru/)
 - MostBet
 - [shakes.pro](http://shakes.pro/)
