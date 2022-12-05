@@ -10,4 +10,4 @@
 - [WorldSkills Russia](https://worldskills.ru/)
 - And a number of private B2B web-applications
 
-Currently working at [spacetab.io](https://github.com/spacetab-io)
+Currently working at [spacetab.io](https://spacetab.io)
