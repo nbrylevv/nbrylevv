@@ -2,7 +2,7 @@
 - TypeScript, JavaScript
 - Vue.JS (mainly), React.js
 
-### 💼 Participated in
+### 📁 Participated in
 - [Offer Manager](https://offer.page/)
 - [WorldSkills Russia](https://worldskills.ru/)
 - [Adidas Creators Club](https://www.adidas.ru/creatorsclub)
@@ -11,4 +11,7 @@
 - [amoCRM](https://www.amocrm.ru/)
 - And a number of private B2B web-applications
 
-🎹 Currently working at [spacetab.io](https://spacetab.io)
+
+### 🎹 Now at [Spacetab.io](https://spacetab.io)
+
+![keyboard slapping sound](https://media.tenor.com/adoVIoM4eo4AAAAC/keyboard-cat.gif)
