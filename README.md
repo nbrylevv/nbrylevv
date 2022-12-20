@@ -1,4 +1,4 @@
-### 📌 Frontend Developer
+### 📌 Front End Developer
 - TypeScript, JavaScript
 - Vue.JS, React.js
 
