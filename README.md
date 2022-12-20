@@ -1,6 +1,6 @@
 ### 📌 Frontend Developer
 - TypeScript, JavaScript
-- Vue.JS (mainly), React.js
+- Vue.JS, React.js
 
 ### 📁 Participated in
 - [Offer Manager](https://offer.page/)
@@ -10,6 +10,9 @@
 - [Shakes.pro](http://shakes.pro/)
 - [amoCRM](https://www.amocrm.ru/)
 - And a number of private B2B web-applications
+
+### 🐼 Pets 
+- [Breaktify](https://nbrylevv.github.io/breaktify/?lang=en)
 
 
 ### 🎹 Now at [Spacetab.io](https://spacetab.io)
