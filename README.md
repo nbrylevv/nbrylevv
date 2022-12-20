@@ -3,7 +3,7 @@
 - Vue.JS, React.js
 
 ### 📁 Participated in
-- [Offer Manager](https://offer.page/)
+- [Offer Management](https://offer.page/)
 - [WorldSkills Russia](https://worldskills.ru/)
 - [Adidas Creators Club](https://www.adidas.ru/creatorsclub)
 - MostBet (bookmaker)
