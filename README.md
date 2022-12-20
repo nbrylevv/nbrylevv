@@ -6,8 +6,8 @@
 - [Offer Manager](https://offer.page/)
 - [WorldSkills Russia](https://worldskills.ru/)
 - [Adidas Creators Club](https://www.adidas.ru/creatorsclub)
-- MostBet
-- [shakes.pro](http://shakes.pro/)
+- MostBet (bookmaker)
+- [Shakes.pro](http://shakes.pro/)
 - [amoCRM](https://www.amocrm.ru/)
 - And a number of private B2B web-applications
 
