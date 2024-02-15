@@ -17,6 +17,6 @@
 - [Breaktify](https://nbrylevv.github.io/breaktify/?lang=en)
 
 
-### 🎹 Now at [Spacetab.io](https://spacetab.io)
+### 🎹 Now at [Lesta Games](https://lesta.ru/ru)
 
 ![keyboard slapping sound](https://media.tenor.com/adoVIoM4eo4AAAAC/keyboard-cat.gif)
